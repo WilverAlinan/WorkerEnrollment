@@ -1,0 +1,8 @@
+{
+  "edu.kalum.broker.host" : "localhost",
+  "edu.kalum.broker.port" : "5672",
+  "edu.kalum.broker.username" : "guest",
+  "edu.kalum.broker.password" : "guest",
+  "edu.kalum.broker.queue" : "edu.kalum.broke.queue",
+  "edu.kalum.broker.virtualHost" : "/"
+}
